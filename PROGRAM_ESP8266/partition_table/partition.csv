@@ -1,0 +1,8 @@
+# Partiton Table for WT8266-S1 (2MB Flash with OTA)
+# Name, Type, SubType, Offset, Size, Flags
+nvs, data, nvs, 0x9000, 0x4000, #16KB
+phy_init, data, phy, 0xd000, 0x1000, #4KB
+factory, app, factory, 0x10000, 0xE0000, #896KB
+ota_0, app, ota_0, 0xF0000, 0xE0000, #896KB
+ota_data, data, ota, 0x1D0000, 0x2000, #8KB
+spiffs, data, spiffs, 0x1D2000, 0x2E000, #184KB 
