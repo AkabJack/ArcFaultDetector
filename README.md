@@ -1,6 +1,8 @@
 # ArcFaultDetector
 My final bachelor's project.
 
+## Screenshots
+
 ![Front PCB Picture](https://github.com/AkabJack/ArcFaultDetector/blob/master/front.jpg?raw=false) 
 ![Back PCB Picture](https://github.com/AkabJack/ArcFaultDetector/blob/master/back.jpg?raw=false) 
 ![Programmers](https://github.com/AkabJack/ArcFaultDetector/blob/master/programmers.jpg?raw=false) 
